@@ -1,6 +1,6 @@
 # Hi there, I'm Sunkanghong Wang 👋
 
-🎓 **PhD Student in Operations Research · The Hong Kong Polytechnic University**
+🎓 **PhD Student · The Hong Kong Polytechnic University**
 
 I am a PhD student in the Department of Logistics and Maritime Studies, Faculty of Business, at The Hong Kong Polytechnic University (PolyU). My research focuses on operations research, discrete optimization, and exact algorithms, with a particular interest in packing and cutting problems.
 
