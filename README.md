@@ -20,14 +20,11 @@ Department of Logistics and Maritime Studies · Faculty of Business
 
 Open-source implementations of exact optimization algorithms.
 
-- **[PrecPack](https://github.com/Sunkanghong-Wang/PrecPack)**  
-  An exact solver for bin packing with generalized precedence constraints.
-
-- **[EAs_For_2KPs](https://github.com/Sunkanghong-Wang/EAs_For_2KPs)**  
-  Exact algorithms for two-dimensional knapsack problems.
-
-- **[EATKG_For_2KPG](https://github.com/Sunkanghong-Wang/EATKG_For_2KPG)**  
-  An exact algorithm for the two-dimensional knapsack problem with guillotine constraints.
+| Project | Description |
+| --- | --- |
+| [PrecPack](https://github.com/Sunkanghong-Wang/PrecPack) | An exact solver for bin packing with generalized precedence constraints. |
+| [EAs_For_2KPs](https://github.com/Sunkanghong-Wang/EAs_For_2KPs) | Exact algorithms for two-dimensional knapsack problems. |
+| [EATKG_For_2KPG](https://github.com/Sunkanghong-Wang/EATKG_For_2KPG) | An exact algorithm for the two-dimensional knapsack problem with guillotine constraints. |
 
 ### 💻 Programming Languages
 
