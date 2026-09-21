@@ -24,4 +24,8 @@ I am a PhD student in the Department of Logistics and Maritime Studies, Faculty 
 
 ### 🌐 Find Me
 
-[Personal Website](https://sites.google.com/view/sunkanghong-wang) · [Google Scholar](https://scholar.google.com/citations?user=G3XNZl8AAAAJ&hl=en) · [ORCID](https://orcid.org/0009-0000-2003-2112) · [ResearchGate](https://www.researchgate.net/profile/Sunkanghong-Wang) · [CSDN Blog](https://wskh0929.blog.csdn.net)
+[![Personal Website](https://img.shields.io/badge/Personal_Website-0F6CBD?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJub25lIiBzdHJva2U9IndoaXRlIiBzdHJva2Utd2lkdGg9IjEuOCI%2BPGNpcmNsZSBjeD0iMTIiIGN5PSIxMiIgcj0iMTAiLz48ZWxsaXBzZSBjeD0iMTIiIGN5PSIxMiIgcng9IjQuNSIgcnk9IjEwIi8%2BPHBhdGggZD0iTTIgMTJoMjAiLz48L3N2Zz4%3D&logoColor=white)](https://sites.google.com/view/sunkanghong-wang)
+[![Google Scholar](https://img.shields.io/badge/Google_Scholar-3367D6?style=for-the-badge&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=G3XNZl8AAAAJ&hl=en)
+[![ORCID](https://img.shields.io/badge/ORCID-678B1C?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0009-0000-2003-2112)
+[![ResearchGate](https://img.shields.io/badge/ResearchGate-008C7E?style=for-the-badge&logo=researchgate&logoColor=white)](https://www.researchgate.net/profile/Sunkanghong-Wang)
+[![CSDN Blog](https://img.shields.io/badge/CSDN_Blog-D94A2E?style=for-the-badge&logo=csdn&logoColor=white)](https://wskh0929.blog.csdn.net)
