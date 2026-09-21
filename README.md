@@ -24,4 +24,4 @@ I am a PhD student in the Department of Logistics and Maritime Studies, Faculty 
 
 ### 🌐 Find Me
 
-[Personal Website](https://sites.google.com/view/sunkanghong-wang) · [Google Scholar](https://scholar.google.com/citations?user=G3XNZl8AAAAJ&hl=en) · [ORCID](https://orcid.org/0009-0000-2003-2112) · [CSDN Blog](https://wskh0929.blog.csdn.net)
+[Personal Website](https://sites.google.com/view/sunkanghong-wang) · [Google Scholar](https://scholar.google.com/citations?user=G3XNZl8AAAAJ&hl=en) · [ORCID](https://orcid.org/0009-0000-2003-2112) · [ResearchGate](https://www.researchgate.net/profile/Sunkanghong-Wang) · [CSDN Blog](https://wskh0929.blog.csdn.net)
