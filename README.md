@@ -1,4 +1,4 @@
-# Sunkanghong Wang
+# Hi there, I'm Sunkanghong Wang 👋
 
 **PhD Student · The Hong Kong Polytechnic University**  
 Department of Logistics and Maritime Studies · Faculty of Business
