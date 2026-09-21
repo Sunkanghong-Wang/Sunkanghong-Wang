@@ -1,4 +1,4 @@
-# Hi there, I'm Sunkanghong Wang 👋
+# ![Hi there, I'm Sunkanghong Wang 👋](https://readme-typing-svg.demolab.com/?font=Fira+Code&size=28&duration=3500&pause=2200&color=2F81F7&center=false&vCenter=true&multiline=false&repeat=true&width=600&height=50&lines=Hi+there%2C+I%27m+Sunkanghong+Wang+%F0%9F%91%8B)
 
 **PhD Student · The Hong Kong Polytechnic University**  
 Department of Logistics and Maritime Studies · Faculty of Business
